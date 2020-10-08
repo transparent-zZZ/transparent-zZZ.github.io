@@ -5,13 +5,13 @@ baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
 title: 秋草逢霜丶
-subtitle: ""
-description: ""
+subtitle: "欲买桂花同载酒"
+description: "少年游"
 keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: transparent-zZZ/transparent-zZZ.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -41,8 +41,8 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: transparent-zZZ
+location: ShangHai, China
 email: chumpma@gmail.com
 
 # ---------------- #
@@ -57,17 +57,17 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+#   -
+#     href: /wiki/
+#     label: 维基
 
   -
     href: /links/
